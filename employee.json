@@ -1,0 +1,17 @@
+{
+    "_id" : ObjectId("65f03615e64502c862cff07d"),
+    "name" : "Ehsan",
+    "age" : "29",
+    "team" : [
+        "Hamda",
+        "mfb"
+    ]
+}
+{
+    "_id" : ObjectId("65f0537bd36297d09871f957"),
+    "name" : "Hoda",
+    "age" : NumberInt(20),
+    "team" : [
+        "Hamda"
+    ]
+}
